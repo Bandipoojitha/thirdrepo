@@ -11,7 +11,7 @@ def ispalindrome(n):
 
 print(reverse(1236))
 print(ispalindrome(123))
-print(reverse(121))
+print(reverse(1219))
 print(ispalindrome(121))
 
 def getPalindromes(start,end):
