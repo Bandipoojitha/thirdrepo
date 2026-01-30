@@ -1,4 +1,4 @@
-'''write a program to fing the reverse of the given number'''
+4'''write a program to fing the reverse of the given number'''
 def reverse(n):
     rev=0
     while n>0:
